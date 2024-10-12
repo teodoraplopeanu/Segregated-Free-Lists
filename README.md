@@ -1,7 +1,5 @@
 # Segregated Free Lists
 
-### Descriere:
-
 This project implements a memory allocator using **segregated free lists**. The operations include INIT_HEAP, MALLOC, FREE, READ, WRITE, DUMP_MEMORY, and DESTROY_HEAP.
 
 ### INIT_HEAP
